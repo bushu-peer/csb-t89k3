@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bushu-peer.github.io/csb-t89k3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bushu-peer.github.io/csb-t89k3/static/js/main.c83543c3.chunk.js",
+    "main.js.map": "https://bushu-peer.github.io/csb-t89k3/static/js/main.c83543c3.chunk.js.map",
+    "runtime-main.js": "https://bushu-peer.github.io/csb-t89k3/static/js/runtime-main.a27f06fe.js",
+    "runtime-main.js.map": "https://bushu-peer.github.io/csb-t89k3/static/js/runtime-main.a27f06fe.js.map",
+    "static/js/2.3c512aec.chunk.js": "https://bushu-peer.github.io/csb-t89k3/static/js/2.3c512aec.chunk.js",
+    "static/js/2.3c512aec.chunk.js.map": "https://bushu-peer.github.io/csb-t89k3/static/js/2.3c512aec.chunk.js.map",
+    "index.html": "https://bushu-peer.github.io/csb-t89k3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bushu-peer.github.io/csb-t89k3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3c512aec.chunk.js.LICENSE.txt": "https://bushu-peer.github.io/csb-t89k3/static/js/2.3c512aec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27f06fe.js",
+    "static/js/2.3c512aec.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c83543c3.chunk.js"
+  ]
+}
